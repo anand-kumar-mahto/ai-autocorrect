@@ -1,0 +1,10 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-login
+werkzeug
+language-tool-python>=2.7.1
+langdetect
+deep-translator
+requests
+setuptools
