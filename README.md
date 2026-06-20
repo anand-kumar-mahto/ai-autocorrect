@@ -21,3 +21,13 @@ AI Autocorrect Tool
 | **Database**| SQLite3 with Flask SQLAlchemy             |
 | **Auth**    | Flask-Login                               |
 | **Extras**  | LangDetect, SpeechRecognition, JS animations |
+
+TO run 
+
+# Terminal 1 - Backend
+cd c:\Users\kinga\Downloads\ai-autocorrect-tool-main\AI-Autocorrect-Tool-main
+python backend\app.py
+
+# Terminal 2 - Frontend
+cd c:\Users\kinga\Downloads\ai-autocorrect-tool-main\AI-Autocorrect-Tool-main\frontend
+python -m http.server 8080
